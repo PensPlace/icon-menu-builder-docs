@@ -1,0 +1,28 @@
+site_name: Icon Menu Builder
+nav:
+  - Home: 'index.md'
+  - Installation: 'installation.md'
+ 
+theme:
+  name: 'material'
+  palette:
+    primary: 'black'
+  logo: 'assets/logo.png'
+  features:
+    - navigation.tabs
+    - navigation.sectionsa
+extra_css:
+  - 'css/extra.css'
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/p3nf0ld
+copyright: Copyright &copy; 2021 Pen Warner
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+repo_url: https://github.com/P3N-101/icon-menu-builder

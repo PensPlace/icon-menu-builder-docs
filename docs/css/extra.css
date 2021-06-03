@@ -1,0 +1,6 @@
+.md-header-nav__button.md-logo img, .md-header-nav__button.md-logo svg {
+    display: block;
+    width: 150px !important;
+    height: 1.2rem;
+    fill: currentColor;
+}
