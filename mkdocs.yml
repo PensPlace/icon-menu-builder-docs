@@ -2,6 +2,7 @@ site_name: Icon Menu Builder
 nav:
   - Home: 'index.md'
   - Installation: 'installation.md'
+
  
 theme:
   name: 'material'
@@ -11,6 +12,9 @@ theme:
   features:
     - navigation.tabs
     - navigation.sectionsa
+  icon:
+    repo: fontawesome/brands/github-alt
+    repo_name: P3N-101/icon-menu-builder
 extra_css:
   - 'css/extra.css'
 extra:
