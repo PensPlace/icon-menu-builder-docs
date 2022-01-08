@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'PowerApps Icon Menu Builder v2',
   tagline: 'Icons are cool',
-  url: 'https://pensplace.github.io/icon-menu-builder-docs/',
-  baseUrl: '/',
+  url: 'https://pensplace.github.io/',
+  baseUrl: '/icon-menu-builder-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
