@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'pensplace', // Usually your GitHub org/user name.
-  projectName: 'icon-menu-builder', // Usually your repo name.
+  organizationName: 'PensPlace', // Usually your GitHub org/user name.
+  projectName: 'icon-menu-builder-docs', // Usually your repo name.
 
   presets: [
     [
@@ -38,7 +38,7 @@ const config = {
         },
       }),
     ],
-  ],np
+  ],
 
   themeConfig:
   
