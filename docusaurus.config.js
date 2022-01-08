@@ -10,6 +10,7 @@ const config = {
   tagline: 'Icons are cool',
   url: 'https://pensplace.github.io/',
   baseUrl: '/icon-menu-builder-docs/',
+  trailingSlash:false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -52,7 +53,7 @@ const config = {
         title: 'Icon Menu Builder v2',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/pensplace.svg',
+          src: './img/pensplace.svg',
         },
         items: [
           {
