@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkicon_menu_builder_v_2=self.webpackChunkicon_menu_builder_v_2||[]).push([[716],{88675:function(e){e.exports=JSON.parse('{"permalink":"/icon-menu-builder-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

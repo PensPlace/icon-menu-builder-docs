@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkicon_menu_builder_v_2=self.webpackChunkicon_menu_builder_v_2||[]).push([[175],{24435:function(e){e.exports=JSON.parse('{"name":"Simple","permalink":"/docs/tags/simple","docs":[{"id":"iconsets/simple","title":"Simple Icons","description":"Fluent UI","permalink":"/docs/iconsets/simple"}],"allTagsPath":"/docs/tags"}')}}]);
