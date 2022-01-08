@@ -53,7 +53,7 @@ const config = {
         title: 'Icon Menu Builder v2',
         logo: {
           alt: 'My Site Logo',
-          src: '/icon-menu-builder-docs/img/pensplace.svg',
+          src: './icon-menu-builder-docs/img/pensplace.svg',
         },
         items: [
           {
