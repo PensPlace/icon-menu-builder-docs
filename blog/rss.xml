@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>PowerApps Icon Menu Builder v2 Blog</title>
+        <link>https://pensplace.github.io/icon-menu-builder-docs/blog</link>
+        <description>PowerApps Icon Menu Builder v2 Blog</description>
+        <lastBuildDate>Sat, 08 Jan 2022 19:08:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[V2 RC1 Released]]></title>
+            <link>https://pensplace.github.io/icon-menu-builder-docs/blog/v2-rc1</link>
+            <guid>v2-rc1</guid>
+            <pubDate>Sat, 08 Jan 2022 19:08:36 GMT</pubDate>
+            <description><![CDATA[First release candidate of V2 is now available at Icon Menu Builder v2 RC1.]]></description>
+            <content:encoded><![CDATA[<p>First release candidate of V2 is now available at <a href="https://github.com/P3N-101/icon-menu-builder/releases/tag/v2.0.0.3">Icon Menu Builder v2 RC1</a>.</p><p>This has the same component requirements as v1.</p><p>You can view the installation guide <a href="./docs/installation">here.</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://pensplace.github.io/icon-menu-builder-docs/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the new Version 2 documentation site, its still in development and will be updated regulary.]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the new Version 2 documentation site, its still in development and will be updated regulary.</p><p>Hope you find it useful.</p><p>Cheers</p><p>Pen</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

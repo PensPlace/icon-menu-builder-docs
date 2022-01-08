@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pensplace.github.io/icon-menu-builder-docs/blog</id>
+    <title>PowerApps Icon Menu Builder v2 Blog</title>
+    <updated>2022-01-08T19:08:36.425Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pensplace.github.io/icon-menu-builder-docs/blog"/>
+    <subtitle>PowerApps Icon Menu Builder v2 Blog</subtitle>
+    <icon>https://pensplace.github.io/icon-menu-builder-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[V2 RC1 Released]]></title>
+        <id>v2-rc1</id>
+        <link href="https://pensplace.github.io/icon-menu-builder-docs/blog/v2-rc1"/>
+        <updated>2022-01-08T19:08:36.425Z</updated>
+        <summary type="html"><![CDATA[First release candidate of V2 is now available at Icon Menu Builder v2 RC1.]]></summary>
+        <content type="html"><![CDATA[<p>First release candidate of V2 is now available at <a href="https://github.com/P3N-101/icon-menu-builder/releases/tag/v2.0.0.3">Icon Menu Builder v2 RC1</a>.</p><p>This has the same component requirements as v1.</p><p>You can view the installation guide <a href="./docs/installation">here.</a></p>]]></content>
+        <author>
+            <name>Pen Warner</name>
+            <uri>https://github.com/P3N-101/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://pensplace.github.io/icon-menu-builder-docs/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the new Version 2 documentation site, its still in development and will be updated regulary.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the new Version 2 documentation site, its still in development and will be updated regulary.</p><p>Hope you find it useful.</p><p>Cheers</p><p>Pen</p>]]></content>
+        <author>
+            <name>Pen Warner</name>
+            <uri>https://github.com/P3N-101/</uri>
+        </author>
+    </entry>
+</feed>
