@@ -1,3 +1,3 @@
-# Bootstrap
+# Public Domain Icons
 
-![Bootstrap](../../assets/bootstrap.png)
+![Bootstrap](../assets/public-domain.png)

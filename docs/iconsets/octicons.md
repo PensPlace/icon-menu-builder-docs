@@ -1,3 +1,3 @@
 # Octicons
 
-![Bootstrap](../../assets/Octicons.png)
+![Bootstrap](../assets/Octicons.png)

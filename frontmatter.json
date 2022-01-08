@@ -1,0 +1,22 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "other",
+  "frontMatter.content.publicFolder": "",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "docs",
+      "path": "h:/IconMenuBuilderv2/icon-menu-builder-docs/docs"
+    },
+    {
+      "title": "user guide",
+      "path": "h:/IconMenuBuilderv2/icon-menu-builder-docs/docs/user guide"
+    },
+    {
+      "path": "h:/IconMenuBuilderv2/icon-menu-builder-docs/docs/user-guide"
+    },
+    {
+      "title": "iconsets",
+      "path": "h:/IconMenuBuilderv2/icon-menu-builder-docs/docs/iconsets"
+    }
+  ]
+}

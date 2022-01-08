@@ -1,3 +1,3 @@
 # Weather
 
-![Weather](../../assets/weather.png)
+![Weather](../assets/weather.png)

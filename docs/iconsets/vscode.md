@@ -1,3 +1,3 @@
-# Bootstrap
+# VS Code Icons
 
-![Bootstrap](../../assets/bootstrap.png)
+![Bootstrap](../assets/vscode.png)
