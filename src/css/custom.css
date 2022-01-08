@@ -47,7 +47,7 @@
   padding: 0 var(--ifm-pre-padding);
 }
 .navLogo{
-  background: url('/img/cropped-logo-red.png');
+  background: url('https://pensplace.github.io/icon-menu-builder-docs/img/pensplace.svg');
 }
 
 .header-github-link:hover {
