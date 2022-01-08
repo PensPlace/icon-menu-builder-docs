@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Search Over 45K Icons Included',
-    image: './img/home-screen.png',
+    image: './icon-menu-builder-docs/img/home-screen.png',
     description: (
       <>
         Find inspiration by searching all iconsets and receiving a single set of search results.
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Save you favourites!',
-    image: './img/myfavs.png',
+    image: './icon-menu-builder-docs/img/myfavs.png',
     description: (
       <>
         Save your favourite icons for easy retrieval, the My Favourites page is the home page on loading!
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Create Menu Collections',
-    image: './img/mymenus.png',
+    image: './icon-menu-builder-docs/img/mymenus.png',
     description: (
       <>
         Create, save and export Power Fx collection code to speed up development.
