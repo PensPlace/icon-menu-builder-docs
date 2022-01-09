@@ -13,7 +13,7 @@
             <guid>v2-rc1</guid>
             <pubDate>Sat, 08 Jan 2022 19:08:36 GMT</pubDate>
             <description><![CDATA[First release candidate of V2 is now available at Icon Menu Builder v2 RC1.]]></description>
-            <content:encoded><![CDATA[<p>First release candidate of V2 is now available at <a href="https://github.com/P3N-101/icon-menu-builder/releases/tag/v2.0.0.3">Icon Menu Builder v2 RC1</a>.</p><p>This has the same component requirements as v1.</p><p>You can view the installation guide <a href="./docs/installation">here.</a></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>First release candidate of V2 is now available at <a href="https://github.com/P3N-101/icon-menu-builder/releases/tag/v2.0.0.3">Icon Menu Builder v2 RC1</a>.</p><p>This has the same component requirements as v1.</p><p>You can view the installation guide <a href="./docs/getting-started/installation">here.</a></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>

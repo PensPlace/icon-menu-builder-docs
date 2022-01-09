@@ -13,7 +13,7 @@
         <link href="https://pensplace.github.io/icon-menu-builder-docs/blog/v2-rc1"/>
         <updated>2022-01-08T19:08:36.425Z</updated>
         <summary type="html"><![CDATA[First release candidate of V2 is now available at Icon Menu Builder v2 RC1.]]></summary>
-        <content type="html"><![CDATA[<p>First release candidate of V2 is now available at <a href="https://github.com/P3N-101/icon-menu-builder/releases/tag/v2.0.0.3">Icon Menu Builder v2 RC1</a>.</p><p>This has the same component requirements as v1.</p><p>You can view the installation guide <a href="./docs/installation">here.</a></p>]]></content>
+        <content type="html"><![CDATA[<p>First release candidate of V2 is now available at <a href="https://github.com/P3N-101/icon-menu-builder/releases/tag/v2.0.0.3">Icon Menu Builder v2 RC1</a>.</p><p>This has the same component requirements as v1.</p><p>You can view the installation guide <a href="./docs/getting-started/installation">here.</a></p>]]></content>
         <author>
             <name>Pen Warner</name>
             <uri>https://github.com/P3N-101/</uri>
