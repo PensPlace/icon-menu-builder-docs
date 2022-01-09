@@ -1,5 +1,5 @@
 ---
-sidebar-position: 13
+sidebar-position: 3
 ---
 # Font Awesome
 

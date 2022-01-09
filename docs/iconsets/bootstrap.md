@@ -1,5 +1,6 @@
 ---
-sidebar-postion: 18
+tags:
+    - Bootstrap
 ---
 # Bootstrap
 

@@ -1,3 +1,3 @@
-# Bootstrap
+# Teeny
 
 ![Bootstrap](../assets/teeny.png)

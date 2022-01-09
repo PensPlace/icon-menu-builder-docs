@@ -1,3 +1,6 @@
+---
+sidebar-postion: 21
+---
 # Pixelart
 
-![Bootstrap](https://github.com/halfmage/pixelarticons/raw/master/cover.jpg)
+![Pixelart](../assets/pixelart.png)

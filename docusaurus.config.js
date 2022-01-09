@@ -58,17 +58,24 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'getting-started/introduction',
             position: 'left',
-            label: 'User Guide',
-          },
+            label: 'Getting Started',
+          }, 
           {
             type: 'doc',
-            docId: 'installation',
+            docId: 'user-guide/homescreen',
             position: 'left',
-            label: 'Installation',
+            label: 'User Guide',
+          }, 
+          {
+            type: 'doc',
+            position: 'left',
+            docId: 'iconsets/fluentui',
+            label: 'Icon Sets',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          
+          {to: '/blog', label: 'News', position: 'left'},
           {
             href: 'https://github.com/P3N-101/icon-menu-builder',
             label: 'GitHub',

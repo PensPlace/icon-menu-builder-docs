@@ -1,8 +1,5 @@
 ---
-sidebar-position: 11
-tags:
-    - Icons
-    - fluentui
+sidebar-position: 1
 ---
 # Fluent UI Icons
 
