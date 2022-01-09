@@ -8,4 +8,4 @@ First release candidate of V2 is now available at [Icon Menu Builder v2 RC1](htt
 
 This has the same component requirements as v1.
 
-You can view the installation guide [here.](./docs/installation)
+You can view the installation guide [here.](./docs/getting-started/installation)
