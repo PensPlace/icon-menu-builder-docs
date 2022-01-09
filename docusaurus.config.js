@@ -26,13 +26,13 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           remarkPlugins: [require('mdx-mermaid')],
           // Please change this to your repo.
-          editUrl: 'https://pensplace.github.io/icon-menu-builder-docs/',
+          editUrl: 'https://github.com/PensPlace/icon-menu-builder-docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://pensplace.github.io/icon-menu-builder-docs/',
+            'https://github.com/PensPlace/icon-menu-builder-docs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -64,7 +64,7 @@ const config = {
           }, 
           {
             type: 'doc',
-            docId: 'user-guide/homescreen',
+            docId: 'user-guide/overview',
             position: 'left',
             label: 'User Guide',
           }, 

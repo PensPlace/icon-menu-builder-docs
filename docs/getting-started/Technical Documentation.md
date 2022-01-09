@@ -1,7 +1,7 @@
 
 Technical Documentation
 ==================================
-![Icon Menu Builder](./assets/home-screen.png)
+![Icon Menu Builder](../assets/home-screen.png)
 Contents
 ========
 
