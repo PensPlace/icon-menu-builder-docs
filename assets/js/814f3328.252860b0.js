@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkicon_menu_builder_v_2=self.webpackChunkicon_menu_builder_v_2||[]).push([[2535],{45641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"V2 RC1 Released","permalink":"/icon-menu-builder-docs/blog/v2-rc1"},{"title":"Welcome","permalink":"/icon-menu-builder-docs/blog/welcome"}]}')}}]);

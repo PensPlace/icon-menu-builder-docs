@@ -4,9 +4,17 @@
         <title>PowerApps Icon Menu Builder v2 Blog</title>
         <link>https://pensplace.github.io/icon-menu-builder-docs/blog</link>
         <description>PowerApps Icon Menu Builder v2 Blog</description>
-        <lastBuildDate>Sat, 08 Jan 2022 19:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 00:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[V2 RC2 Released]]></title>
+            <link>https://pensplace.github.io/icon-menu-builder-docs/blog/v2-rc2</link>
+            <guid>v2-rc2</guid>
+            <pubDate>Wed, 12 Jan 2022 00:28:54 GMT</pubDate>
+            <description><![CDATA[Second release candidate delivered as a single solution file, also the file size seems to have shrunk by 10MB...Cool..]]></description>
+            <content:encoded><![CDATA[<p>Second release candidate delivered as a single solution file, also the file size seems to have shrunk by 10MB...Cool..</p><p>Import the managed solution, if you don&#x27;t have the SharePoint Libraries installed use the Flow to create them, then import the solution.</p><p>Play the app....</p><p>You can view the installation guide <a href="./docs/getting-started/installation">here.</a></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[V2 RC1 Released]]></title>
             <link>https://pensplace.github.io/icon-menu-builder-docs/blog/v2-rc1</link>
