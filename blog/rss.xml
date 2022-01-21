@@ -13,7 +13,7 @@
             <guid>v2-released</guid>
             <pubDate>Fri, 21 Jan 2022 21:50:07 GMT</pubDate>
             <description><![CDATA[Happy to say V2 is now released, please view the updated installation guide here..]]></description>
-            <content:encoded><![CDATA[<p>Happy to say V2 is now released, please view the updated installation guide <a href="./docs/getting-started/installation">here.</a>.</p><p><img src="../docs/assets/home-screen.png" alt="Icon Menu Builder V2"/></p><p>Features:</p><ul><li>Over 45K included Icons</li><li>Save Favourite Icons</li><li>Copy PowerFx SVG (URL Encoded and Decoded) and Menu Collection code</li><li>Download Icons</li><li>Upload Icons</li><li>Create and Save Icon Menus</li><li>WCAG 2.1 Color Contrast Checker</li></ul><p>Hope you find it useful!</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Happy to say V2 is now released, please view the updated installation guide <a href="./docs/getting-started/installation">here.</a>.</p><p><img src="../docs/assets/home-screen.png" alt="Icon Menu Builder V2"/></p><p>Features:</p><ul><li>Over 45K included Icons</li><li>Save Favourite Icons</li><li>Copy PowerFx SVG (URL Encoded and Decoded) and Menu Collection code</li><li>Download Icons</li><li>Upload Icons</li><li>Create and Save Icon Menus</li><li>WCAG 2.1 Color Contrast Checker</li></ul><p>Hope you find it useful!</p><p><a href="https://github.com/P3N-101/icon-menu-builder/releases/tag/v2.0.0.11">Download</a></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[V2 RC2 Released]]></title>
