@@ -17,4 +17,4 @@ Features:
 * Create and Save Icon Menus
 * WCAG 2.1 Color Contrast Checker
 
-Hopy you like!
+Hope you find it useful!
