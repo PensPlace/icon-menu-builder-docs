@@ -19,13 +19,9 @@ Welcome to version 2 of the Icon Menu Builder, when you first load the app and d
 
 ## Minimum path to awesome
 1. Download [Latest Version](https://github.com/P3N-101/icon-menu-builder/releases/tag/v2.0.0.3)
-1. Import __CanvasFileDownloaderControl.zip__
-2. Import __CanvasFileUploaderComponent_managed.zip__
-3. Import __ColorPicker_managed.zip__
-4. Import __CopyTextSolution.zip__
-5. Import __PPIconMenuBuilderv2_2_0_0_3_managed.zip__
-   
-Play the __Icon Menu Builder v2__ Power App.
+2. Import __PPIconMenuBuilderv2_2_0_0_11_managed.zip__
+3. Run the SharePoint Setup Flow (you will need a SharePoint Site)
+4. Play the __Icon Menu Builder v2__ Power App.
 ## Home Screen
 
 Using Gestalt design principles the screen is split into 4 areas:

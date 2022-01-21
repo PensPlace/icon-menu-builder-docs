@@ -8,21 +8,9 @@ To install the Icon Menu Builder you will need an Power Platform Environment con
 
 ![Code Components](../assets/code-components.png)
 
-## Install Supporting Solutions
+### Install the Icon Menu Builder v2 Solution 
 
-Import the following solutions from the solutions folder:
-
-* ColorPicker_managed.zip
-* CopyTextSolution.zip
-* CanvasFileDownloaderControl.zip
-* CanvasFileUploaderComponent_managed.zip
-
-To install the solutions navigate to make.powerapps.com and select the environment you are installing into:
-![Install Supporting Solutions](../assets/install-1.png)
-
-![Install Supporting Solutions](../assets/install-2.png)
-
-### Install the Icon Menu Builder Solution
+The solution is now a single package with everything required contained.
 
 ![Import Solutions](../assets/install-3.png)
 
@@ -31,16 +19,14 @@ Select or create the SharePoint connection
 
 ![Import Solutions](../assets/install-5.png)
 
-![Import Solutions](../assets/install-6.png)
 
-Select the SharePoint site URL Environment variable - Icon Menu Builder SharePoint Site
+Select the SharePoint site URL Environment variable - Icon Menu Builder v2 SharePoint Site
 
 ![Import Solutions](../assets/install-8.png)
 
 ![Import Solutions](../assets/install-7.png)
 
-## Run the SharePoint Setup Flow
-
+## Run the SharePoint Setup Flowdd 
 Open the solution and open the Icon Menu Builder - SharePoint Setup Flow
 
 ![SharePoint Setup](../assets/install-9-flow.png)
