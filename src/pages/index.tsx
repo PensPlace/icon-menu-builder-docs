@@ -16,8 +16,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://github.com/P3N-101/icon-menu-builder/releases/tag/v2-rc2">
-            Download Latest Version 🔻
+            to="https://github.com/P3N-101/icon-menu-builder/releases/tag/v2.0.0.11">
+            🔻Download V2 🔻
           </Link>
         </div>
       </div>

@@ -18,3 +18,5 @@ Features:
 * WCAG 2.1 Color Contrast Checker
 
 Hope you find it useful!
+
+[Download](https://github.com/P3N-101/icon-menu-builder/releases/tag/v2.0.0.11)
