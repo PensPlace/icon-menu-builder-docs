@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pensplace.github.io/icon-menu-builder-docs/blog</id>
     <title>PowerApps Icon Menu Builder v2 Blog</title>
-    <updated>2022-01-12T00:28:54.689Z</updated>
+    <updated>2022-01-21T21:50:07.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pensplace.github.io/icon-menu-builder-docs/blog"/>
     <subtitle>PowerApps Icon Menu Builder v2 Blog</subtitle>
     <icon>https://pensplace.github.io/icon-menu-builder-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[V2  Released]]></title>
+        <id>v2-released</id>
+        <link href="https://pensplace.github.io/icon-menu-builder-docs/blog/v2-released"/>
+        <updated>2022-01-21T21:50:07.499Z</updated>
+        <summary type="html"><![CDATA[Happy to say V2 is now released, please view the updated installation guide here..]]></summary>
+        <content type="html"><![CDATA[<p>Happy to say V2 is now released, please view the updated installation guide <a href="./docs/getting-started/installation">here.</a>.</p><p><img src="../docs/assets/home-screen.png" alt="Icon Menu Builder V2"/></p><p>Features:</p><ul><li>Over 45K included Icons</li><li>Save Favourite Icons</li><li>Copy PowerFx SVG (URL Encoded and Decoded) and Menu Collection code</li><li>Download Icons</li><li>Upload Icons</li><li>Create and Save Icon Menus</li><li>WCAG 2.1 Color Contrast Checker</li></ul><p>Hopy you like!</p>]]></content>
+        <author>
+            <name>Pen Warner</name>
+            <uri>https://github.com/P3N-101/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V2 RC2 Released]]></title>
         <id>v2-rc2</id>
